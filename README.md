@@ -22,7 +22,7 @@
     
 </p>
   
----  
+---
 
 <h2 align="center">Setup 🛠</h2>  
   
@@ -34,7 +34,7 @@
 
 ### Installation :
 
-- Step 1: Fork [this repo](https://github.com/dmalvia/Mern_Stack_Url_Shortner_App).
+- Step 1: Fork [this repo](https://github.com/nocode000/url_shortner).
 - Step 2: Clone your forked version of this repo locally. To clone, go to your command line / terminal, cd over to an appropriate directory and type in `git clone https://github.com/<your username>/Mern_Stack_Url_Shortner_App.git`.
 - Step 3: `cd client-app`
 - Step 4: While in the `client-app` directory, install the frontend dependencies using `npm install` or `yarn`.
@@ -62,10 +62,10 @@
 
 ### License
 
-[MIT](LICENSE) © [Dipesh Malvia](https://github.com/dmalvia/)
+[MIT](LICENSE) © [Janakiram](https://github.com/nocode000/)
 
 <br>
 
 ### Developer 😎
 
-Made with ❤ by [Dipesh Malvia](https://github.com/dmalvia/).
+Made with ❤ by [Janakiram](https://github.com/nocode000/).
